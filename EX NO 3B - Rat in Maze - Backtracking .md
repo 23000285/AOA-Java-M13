@@ -1,6 +1,6 @@
 # **EX 3B – Rat in Maze (Ball in Maze) – Backtracking**
 
-## **DATE: 10-05-2025**
+## **DATE: 10-10-2025**
 
 ## **AIM:**
 
@@ -59,7 +59,7 @@ Path → left → down → left → down → right → down → right
 /*
 Program to implement Rat in Maze (Ball in Maze) using Backtracking
 Developed by: VENKATANATHAN P R
-Register Number:212223240173
+Register Number: 212223240173
 */
 
 import java.util.*;
