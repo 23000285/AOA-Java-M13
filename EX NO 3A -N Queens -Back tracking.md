@@ -1,6 +1,6 @@
 # **EX 3A – N Queens Problem (Backtracking Approach)**
 
-## **DATE: 01-10-2025**
+## **DATE: 21-09-2025**
 
 ## **AIM:**
 
