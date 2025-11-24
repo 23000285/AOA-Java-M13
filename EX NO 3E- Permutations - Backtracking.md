@@ -1,6 +1,6 @@
 # **EX 3E – Generate Permutations using Backtracking Approach**
 
-## **DATE: 22-10-2025**
+## **DATE: 05-10-2025**
 
 ## **AIM:**
 
