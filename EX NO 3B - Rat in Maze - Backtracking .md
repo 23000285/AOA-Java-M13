@@ -1,6 +1,6 @@
 # **EX 3B – Rat in Maze (Ball in Maze) – Backtracking**
 
-## **DATE: 10-10-2025**
+## **DATE: 24-09-2025**
 
 ## **AIM:**
 
