@@ -1,6 +1,6 @@
 # **EX 3D – Sudoku Solver Using Backtracking**
 
-## **DATE: 19-10-2025**
+## **DATE: 01-10-2025**
 
 ## **AIM:**
 
