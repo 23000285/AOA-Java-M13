@@ -1,6 +1,6 @@
 # **EX 3C – Tug of War Problem (Partition Equal Subset Sum)**
 
-## **DATE: 17-10-2025**
+## **DATE: 28-09-2025**
 
 ## **AIM:**
 
